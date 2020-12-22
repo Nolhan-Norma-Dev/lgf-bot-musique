@@ -1,22 +1,12 @@
 {
-  "name": "mika",
-  "version": "0.1.0",
-  "description": "[![GitHub license](https://img.shields.io/github/license/Shaynlink/mika.svg)](https://github.com/Shaynlink/mika/blob/master/LICENSE) [![Github all releases](https://img.shields.io/github/downloads/Shaynlink/mika/total.svg)](https://GitHub.com/Shaynlink/mika/releases/) [![GitHub stars](https://img.shields.io/github/stars/Shaynlink/mika.svg)](https://GitHub.com/Shaynlink/mika/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/Shaynlink/mika.svg)](https://GitHub.com/Shaynlink/mika/watchers/) [![GitHub issues](https://img.shields.io/github/issues/Shaynlink/mika.svg)](https://GitHub.com/Shaynlink/mika/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Shaynlink/mika.svg)](https://GitHub.com/Shaynlink/node-anemy/issues?q=is%3Aissue+is%3Aclosed)",
+  "name": "lgf-bot",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000L\u0000G\u0000F\u0000-\u0000B\u0000o\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000�\u0000 \u00002\u00000\u00002\u00000\u0000 \u0000:\u0000 \u0000B\u0000o\u0000t\u0000 \u0000e\u0000t\u0000 \u0000m\u0000e\u0000s\u0000s\u0000a\u0000g\u0000e\u0000 \u0000c\u0000r\u0000�\u0000�\u0000 \u0000p\u0000a\u0000r\u0000 \u0000l\u0000'\u0000a\u0000g\u0000r\u0000i\u0000c\u0000u\u0000l\u0000t\u0000e\u0000u\u0000r\u0000 \u0000n\u0000o\u0000r\u0000m\u0000a\u0000n\u0000d\u0000 \u0000|\u0000 \u0000T\u0000o\u0000u\u0000s\u0000 \u0000d\u0000r\u0000o\u0000i\u0000t\u0000s\u0000 \u0000r\u0000�\u0000s\u0000e\u0000r\u0000v\u0000�\u0000s\u0000.\u0000\r\u0000 \u0000#\u0000 \u0000B\u0000o\u0000t\u0000 \u0000c\u0000r\u0000�\u0000�\u0000 \u0000u\u0000n\u0000i\u0000q\u0000u\u0000e\u0000m\u0000e\u0000n\u0000t\u0000 \u0000p\u0000o\u0000u\u0000r\u0000 \u0000L\u0000G\u0000F\u0000 \u0000v\u00002\u0000 \u0000!\u0000\r\u0000 \u0000#\u0000 \u0000r\u0000e\u0000j\u0000o\u0000i\u0000n\u0000d\u0000r\u0000e\u0000 \u0000l\u0000e\u0000 \u0000s\u0000e\u0000r\u0000v\u0000e\u0000u\u0000r\u0000 \u0000:\u0000 \u0000h\u0000t\u0000t\u0000p\u0000s\u0000:\u0000/\u0000/\u0000d\u0000i\u0000s\u0000c\u0000o\u0000r\u0000d\u0000.\u0000i\u0000o\u0000/\u0000L\u0000G\u0000F\u0000-\u0000v\u00002\u0000",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Shaynlink/mika.git"
-  },
-  "author": "shaynlink <me@shaynlink.fr> (https://ohori.me)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Shaynlink/mika/issues"
-  },
-  "homepage": "https://github.com/Shaynlink/mika#readme",
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
     "axios": "^0.19.2",
@@ -25,5 +15,11 @@
     "klaw": "^3.0.0",
     "moment": "^2.27.0",
     "ytdl-core": "^2.1.7"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "l'agriculteur normand",
+  "license": "ISC"
 }
