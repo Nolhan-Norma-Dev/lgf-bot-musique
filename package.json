@@ -10,7 +10,15 @@
     "html-entities-decoder": "^1.0.0",
     "klaw": "^3.0.0",
     "moment": "^2.27.0",
-    "ytdl-core": "^2.1.7"
+    "ytdl-core": "^2.1.7",
+
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.1.1",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.2",
+    "spotify-web-api-node": "^4.0.0",
+    "weather-js": "^2.0.0",
+    "ytdl-core-discord": "^1.2.0"
   },
   "devDependencies": {},
   "scripts": {
